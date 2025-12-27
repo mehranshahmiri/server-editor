@@ -5,7 +5,6 @@ Edit, upload, and manage files directly from your browser — **no SSH, no nano,
 
 Drop in. Use. Delete.
 
-By Mehran Shahmiri
 www.mehranshahmiri.com
 
 ---
