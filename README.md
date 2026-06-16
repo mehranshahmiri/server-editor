@@ -1,4 +1,5 @@
 <img width="460" height="75" alt="image" src="https://github.com/user-attachments/assets/a10c83dc-c8d2-4042-acc4-4b9ac0e0cfb1" />
+
 # Server Editor
 
 A **secure, single-file PHP file manager and code editor** for Linux servers.  
